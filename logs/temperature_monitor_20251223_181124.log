@@ -1,0 +1,10 @@
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - 日志系统初始化完成，日志文件: logs/temperature_monitor_20251223_181124.log
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - === 开始温度监控系统 ===
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - 运行时长: 60秒
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - 刷新间隔: 2秒
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - 压力测试: medium
+2025-12-23 18:11:24,866 - TemperatureMonitor - INFO - 温度数据文件已创建: temperature_log_20251223_181124.csv
+2025-12-23 18:11:24,867 - TemperatureMonitor - INFO - 开始初始化CAN总线连接...
+2025-12-23 18:11:24,869 - TemperatureMonitor - INFO - 发现CAN接口: ['can0', 'can1']
+2025-12-23 18:11:24,871 - TemperatureMonitor - INFO - ✅ CAN总线连接成功: socketcan on can0
+2025-12-23 18:11:24,872 - TemperatureMonitor - INFO - 启动medium强度压力测试

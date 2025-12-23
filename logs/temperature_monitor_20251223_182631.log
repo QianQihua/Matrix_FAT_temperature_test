@@ -1,0 +1,11 @@
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 日志系统初始化完成，日志文件: logs/temperature_monitor_20251223_182631.log
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - === 开始温度监控系统 ===
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 运行时长: 14400秒
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 刷新间隔: 2秒
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 压力测试: medium
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 温度数据文件已创建: temperature_log_20251223_182631.csv
+2025-12-23 18:26:31,069 - TemperatureMonitor - INFO - 开始初始化CAN总线连接...
+2025-12-23 18:26:31,071 - TemperatureMonitor - INFO - 发现CAN接口: ['can0', 'can1']
+2025-12-23 18:26:31,075 - TemperatureMonitor - INFO - ✅ CAN总线连接成功: socketcan on can0
+2025-12-23 18:26:31,076 - TemperatureMonitor - INFO - 启动medium强度压力测试
+2025-12-23 18:40:55,757 - TemperatureMonitor - ERROR - 中等强度磁盘压力测试错误: [Errno 2] No such file or directory: '/tmp/medium_stress_1287.tmp'

@@ -1,0 +1,25 @@
+{
+  "system_info": {
+    "start_time": "2025-12-23T18:10:53.854806",
+    "duration": 30,
+    "interval": 2,
+    "stress_level": "medium",
+    "log_file": "logs/temperature_monitor_20251223_181053.log"
+  },
+  "temperature_summary": {
+    "total_readings": 0,
+    "cpu_avg": 0,
+    "vulcan_s1_avg": 0,
+    "vulcan_s2_avg": 0
+  },
+  "network_performance": {
+    "total_tests": 0,
+    "successful_tests": 0
+  },
+  "stress_test_summary": {
+    "cpu_threads": 0,
+    "memory_allocation_mb": 0,
+    "disk_io_operations": 0,
+    "disk_io_mb": 0
+  }
+}
